@@ -1,2 +1,108 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
+/* nav ber */
+#navber{
+    flex-direction: column;
+}
+#navber ul li a{
+    padding: 0px 10px;
+}
+#navber ul li{
+    padding: 0px 1px;
+
+} 
+
+/* home  */
+
+#home p{
+    padding: 10px 20px;
+}
+
+/*  3rd  */
+
+.con1 {
+    flex-direction: column;
+    height: fit-content;
+    margin: 30px;
+
+
+}
+
+.con2{
+    flex-direction: column-reverse;
+    height: fit-content;
+    margin: 30px;
+}
+.con1 img{
+    height: 40%;
+    width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+}
+.con2 img{
+    height: 40%;
+    width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+}
+.contain{
+    width: 100%;
+    margin: 0px;
+    
+}
+
+/* item section */
+.item-section{
+    height: fit-content;
+}
+
+.item-box{
+    flex-direction: column;
+    height: fit-content;
+    
+}
+.box{
+    width: 100%;
+}
+
+/* contact us */
+.contuct-item{
+    flex-direction: column;
+    height: fit-content;
+}
+.add{
+    
+    width: 100%;
+    
+}
+.form{
+    
+    width: 100%;
+    
+}
+.add img{
+    
+    width: 90%;
+    
+}
+
+
+/* about page */
+
+.banar-box{
+    flex-direction: column;
+}
+.banar1{
+    /*border: 2px solid green;*/
+    width: 100%;
+}
+.count{
+   /* position: relative;
+    height: auto;*/
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.banar2{
+    /*border: 2px solid green;*/
+    width: 100%;
+}
+.banar1 p{
+    padding-left: 15px;
+}
