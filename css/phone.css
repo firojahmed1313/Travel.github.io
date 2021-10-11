@@ -123,8 +123,8 @@
 .count{
     /*border: 2px solid red;*/
     margin-top: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
     
     
 }
@@ -137,7 +137,7 @@
     
 }
 .count-item span{
-    font-size: 1.5rem;
+
     padding: 5px 5px;
     font-weight: bold;
 }
