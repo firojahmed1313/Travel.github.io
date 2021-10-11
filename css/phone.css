@@ -120,32 +120,13 @@
 .banar1 p{
     padding-left: 15px;
 }
-.count{
-    /*border: 2px solid red;*/
-    margin-top: 30px;
-    margin-left: 80px;
-    margin-right: 80px;
-    
-    
-}
-.count-item{
-    /*border: 2px solid black;*/
-    width: 20%;
-    text-align: center;
-    
-    
-    
-}
-.count-item span{
 
-    padding: 5px 5px;
-    font-weight: bold;
-}
+
 
 .count-item p{
     font-size: 1rem;
     font-weight: bold;
-    padding: 16px 2px;
+    padding: 16px 5px;
     color: rgb(10, 10, 10);
 
 }
