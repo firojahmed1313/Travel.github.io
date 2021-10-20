@@ -4,6 +4,9 @@
     padding: 0px;
     margin: 0px;
 }
+body{
+    overflow: hidden;
+}
     /* nav ber*/
 #navber{
     display: flex;
